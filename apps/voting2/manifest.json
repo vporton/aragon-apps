@@ -9,9 +9,6 @@
     { "src": "/meta/icon.svg", "sizes": "56x56" }
   ],
   "screenshots": [
-    { "src": "/meta/screenshot-1.png" },
-    { "src": "/meta/screenshot-2.png" },
-    { "src": "/meta/screenshot-3.png" }
   ],
   "script": "/script.js",
   "start_url": "/index.html"
